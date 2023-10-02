@@ -304,6 +304,7 @@ a {
     }
 
     #bottom #left #skills .skillbox .value{
+	  margin-right: 9px;
         height: .8vh;
     }
 
